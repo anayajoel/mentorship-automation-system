@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Mentorship Automation System
 
 An end-to-end automation solution designed to streamline an internal mentorship request process using Google Workspace.
