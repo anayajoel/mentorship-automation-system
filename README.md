@@ -55,29 +55,6 @@ The system uses three trigger-based automations:
 * Document generation trigger
 * Email notification trigger
 
-## 📂 Project Structure
-
-```text
-mentorship-automation-system/
-│
-├── appscript/
-│   └── Code.gs
-│
-├── docs/
-│
-├── screenshots/
-│
-├── assets/
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
-## 📸 Screenshots
-
-Screenshots demonstrating the workflow will be added soon.
-
 ## 🔒 Security
 
 All confidential information has been removed from this public repository.
